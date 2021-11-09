@@ -1,3 +1,3 @@
 * Refreshing GraphQL, Node.js, MongoDB and React.js
 
-* High five
+* High five to all
